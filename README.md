@@ -2,7 +2,7 @@
 
 Official PyTorch implementation of **"Two-stage Active Learning Framework for Temporal Action Segmentation"** (ECCV 2024)
 
-**Paper**: [https://www.khoury.northeastern.edu/home/eelhami/publications/ATAS-ECCV24.pdf](https://www.khoury.northeastern.edu/home/eelhami/publications/ATAS-ECCV24.pdf)
+**Paper**: [https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06348.pdf](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06348.pdf)
 
 ## Highlights
 
@@ -135,7 +135,7 @@ Note: Results with 0.35% labeled frames (4 active learning cycles, 5% videos per
 
 See [DATA.md](DATA.md) for detailed instructions on:
 - Downloading datasets (GTEA, 50Salads, Breakfast)
-- Extracting I3D features
+- Extracting I3D features and merging to clip-level features
 - Preparing labels
 - Setting up directory structure
 
