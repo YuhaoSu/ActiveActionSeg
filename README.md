@@ -205,7 +205,7 @@ python train_active.py --dataset gtea --clip_active_method entropy_mc --video_ac
 If you find this code useful, please cite our paper:
 
 ```bibtex
-@inproceedings{su2024altaas,
+@inproceedings{su2024al-tas,
   title={Two-stage Active Learning Framework for Temporal Action Segmentation},
   author={Su, Yuhao and Elhamifar, Ehsan},
   booktitle={European Conference on Computer Vision (ECCV)},
@@ -221,7 +221,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - ASFormer backbone: [https://github.com/ChinaYi/ASFormer](https://github.com/ChinaYi/ASFormer)
 - I3D features extraction tools
-- GTEA, 50Salads, and Breakfast dataset providers
+- GTEA, 50Salads, Breakfast, and CrossTask dataset providers
 
 ## Contact
 
